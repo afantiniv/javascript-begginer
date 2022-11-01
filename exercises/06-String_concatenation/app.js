@@ -1,7 +1,7 @@
 
 //Set the values here
-let myVar1 = '';
-let myVar2 = '';
+let myVar1 = 'Hello';
+let myVar2 = 'World';
 
 
 
